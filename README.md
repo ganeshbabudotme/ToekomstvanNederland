@@ -13,5 +13,7 @@ If you would like to contribute to this project, or if you have any questions ab
 # Next Steps
 
 Add more missing visions
+
 Reach out to original authors and ask for higher resolution maps.
+
 Add a base map
